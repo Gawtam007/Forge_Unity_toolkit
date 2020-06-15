@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ARVRToolkit/Assets/Forge Samples/loadAtStartup.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
